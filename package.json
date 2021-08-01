@@ -1,0 +1,23 @@
+{
+  "name": "base64",
+  "version": "1.0.0",
+  "description": "图片生成base64",
+  "main": "index.js",
+  "dependencies": {
+    "imageinfo": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/121595113/image2base64.git"
+  },
+  "author": "taoge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/121595113/image2base64/issues"
+  },
+  "homepage": "https://github.com/121595113/image2base64#readme"
+}
